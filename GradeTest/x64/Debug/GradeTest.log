@@ -1,0 +1,8 @@
+﻿  avg.c
+  Incre.c
+  Max.c
+  main.c
+  Generating Code...
+F:\extract\GradeTest\GradeTest\Incre.c(3,3): warning C4013: 'printf' undefined; assuming extern returning int
+F:\extract\GradeTest\GradeTest\main.c(6,17): warning C4305: 'initializing': truncation from 'double' to 'float'
+  GradeTest.vcxproj -> F:\extract\GradeTest\x64\Debug\GradeTest.exe
